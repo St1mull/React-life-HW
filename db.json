@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "adad",
+      "phone": "+999999999996555",
+      "email": "vuglizov2018@mail.ru",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMDGJXCJdFyzS-LxAVKtGCAbpXjSC4f2Y-n_YgSxig4_G8kyfY5wxHxKlC2HRezI08OY&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "DeDrIZer",
+      "phone": "+9999999",
+      "email": "vuglizov2018@mail.ru",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMDGJXCJdFyzS-LxAVKtGCAbpXjSC4f2Y-n_YgSxig4_G8kyfY5wxHxKlC2HRezI08OY&usqp=CAU",
+      "id": 2
+    }
+  ]
+}
